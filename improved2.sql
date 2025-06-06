@@ -1,3 +1,4 @@
+explain analyze
 SELECT DISTINCT
     e1.year,
     e1.name,
